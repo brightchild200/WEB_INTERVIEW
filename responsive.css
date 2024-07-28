@@ -1,0 +1,194 @@
+@media (max-width: 991.98px) {
+  .info {
+    display: none;
+  }
+
+  .nav2 {
+    background: #000000 !important;
+    position: relative;
+    top: 0;
+    padding: 10px 15px;
+  }
+
+
+}
+
+@media screen and (max-width:992px) {
+  #dropdown {
+    display: none;
+  }
+
+  .info2 button {
+    display: none !important;
+  }
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.h1,
+.h2,
+.h3,
+.h4,
+.h5,
+.h6 {
+  margin-bottom: 0.5rem;
+  font-weight: 500;
+  line-height: 1.2;
+}
+
+h1,
+.h1 {
+  font-size: 2.5rem;
+}
+
+h2,
+.h2 {
+  font-size: 2rem;
+}
+
+h3,
+.h3 {
+  font-size: 1.75rem;
+}
+
+h4,
+.h4 {
+  font-size: 1.5rem;
+}
+
+h5,
+.h5 {
+  font-size: 1.25rem;
+}
+
+h6,
+.h6 {
+  font-size: 1rem;
+}
+
+@media (min-width: 576px) {
+
+  .info,
+  .container {
+    max-width: 540px;
+  }
+}
+
+@media (min-width: 768px) {
+
+  .info,
+  .container {
+    max-width: 720px;
+  }
+}
+
+@media (min-width: 992px) {
+
+  .info,
+  .container {
+    max-width: 960px;
+  }
+}
+
+.container {
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+@media (min-width: 1200px) {
+  .container {
+    max-width: 1140px;
+  }
+}
+
+
+@media screen and (max-width: 550px) {
+  .product {
+    display: none;
+  }
+}
+
+@media (max-width: 767.98px) {
+  .bopo {
+    width: 100%;
+    height: 250px;
+  }
+
+  .in {
+    width: 100%;
+    padding: 5px;
+    font-size: 18px;
+  }
+
+  .gggg span {
+    font-size: 90px;
+    top: -40px;
+  }
+
+  .nav-link {
+    width: 100%;
+    background: #f6f1e9;
+    margin-bottom: 4px;
+  }
+}
+
+@media (min-width: 992px) {
+  .chef1 {
+    margin-top: -30px;
+  }
+}
+
+@media (min-width: 992px) {
+  .chef2 {
+    margin-bottom: -30px;
+  }
+}
+
+@media (max-width: 767.98px) {
+  .chef2 {
+    height: 700px;
+    margin: 0px;
+  }
+
+  .nav2 .drop {
+    background: none;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+  }
+}
+
+@media (max-width: 991.98px) {
+  .gggg h1 {
+    font-size: 30px;
+  }
+}
+
+@media (max-width: 991.98px) {
+  .nav2 .drop {
+    background: none;
+    border-radius: 0px;
+    padding-left: 0rem !important;
+    padding-right: 0rem !important;
+  }
+}
+
+@media (max-width: 991.98px) {
+  .nav2.nav-item.nav-link {
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: .9rem;
+    padding-bottom: .9rem;
+    color: rgba(255, 255, 255, 0.7);
+  }
+
+  .nav2.nav-item.nav-link :hover {
+    color: #fff;
+  }
+}
